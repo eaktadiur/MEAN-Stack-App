@@ -1,9 +1,9 @@
 {
-  "name"         : "Mongo Express Angular Node",
+  "name"         : "MEAN-Stack-App",
   "version"      : "0.0.0",
-  "description"  : "Simple todo application.",
+  "description"  : "Mongo Express Angular Node application.",
   "main"         : "app.js",
-  "author"       : "Scotch",
+  "author"       : "Eaktadiur",
   "dependencies" : {
     "express"         : "~4.6.1",
     "mongoose"        : "~3.8.13",
